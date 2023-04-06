@@ -1,0 +1,1 @@
+put this folder to -> /cfg/sourcemod

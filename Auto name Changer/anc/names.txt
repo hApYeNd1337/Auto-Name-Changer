@@ -1,0 +1,116 @@
+//nick--modeFlags--newName
+//--mode:
+//		default:bcf
+//a-completematch
+//b-partialmatch
+//c-completereplacement
+//d-partialreplacement
+//e-casesensitive
+//f-caseinsensitive
+//
+//--new:
+//default:randomnicknamefromfilenewnames.txt
+//
+//Example:
+//		1:
+//			forbidden:mynickname--modeacf
+//			nickname:mynickname
+//			mynickaname->phrase
+//		2:
+//			forbidden:nick--modebd
+//			nickname:mynickname
+//			mynickaname->myphrasename
+//		3:
+//			forbidden:nick
+//			nickname:mynickname
+//			mynickaname->phrase
+//			becausedefaultmode=bcf,thisequalnick--modebcf
+//4:
+//			forbidden:nick--modebd--newNewName
+//			nickname:mynickname
+//			mynickaname->myNewName
+//
+.ua
+.ru
+.eu
+.соm
+.de
+.co.uk
+.uk
+.se
+.infо
+Player
+.su
+.net
+.nеt
+.lt
+.mp
+.net
+indungi
+laleagane
+usp
+1TAP
+Astramania
+FAIRSIDE
+ZUTV
+ELITEGAMERS
+ALPHACS
+VETERANII
+GAMELIFE
+ELEAGUE
+LANNIGHT
+NEVERMORE
+CSGO
+DEATH
+LIBERTY
+Romania
+GO-
+RESPAWN
+FFA
+RETAKE
+COMPETITIV
+.org
+1tap_
+strix
+nephrite
+parabestial
+avulon
+onecsgo
+playes
+krimes
+www.
+elitegamers
+@me
+golani
+#bucllg
+amvenitsavafutmamele
+mata
+awp
+fireon
+usp
+bucuresti.fairisde
+go.ggez
+go.fairside
+go.llg
+go.ggez
+jb.ggez
+bucuresti.llg
+jb.mediv
+#llg
+llg
+mevid
+vaslui.avulon
+nevermore
+libery.mp
+nevermore
+alphacs
+zutv
+elitegamers
+leaguecs
+DROP
+skin
+skins
+case
+cases
+skins
+.gg

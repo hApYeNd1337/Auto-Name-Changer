@@ -1,0 +1,110 @@
+//  clan --mode Flags --new Clan
+//  --mode:
+//		default: bcf
+//      a - complete match
+//      b - partial match
+//      c - complete replacement
+//      d - partial replacement
+//      e - case sensitive
+//      f - case insensitive
+//
+//  --new:
+//      default: random clan from file newclans.txt
+//
+//  Example:
+//		1:
+//			forbidden: my clantag --mode acf
+//			clan: my clantag
+//			my clantag -> phrase
+//		2:
+//			forbidden: my clantag --mode bd
+//			clan: my clantag
+//			my clantag -> my phrasetag
+//		3:
+//			forbidden: my clantag
+//			clan: my clantag
+//			my clantag -> phrase
+//			because default mode = bcf, this equal clan --mode bcf
+//      4:
+//			forbidden: my clantag --mode bd -new NewClan
+//			clan: my clantag
+//			my clantag -> my NewClan
+//
+.ua
+.ru
+.eu
+.соm
+.de
+.co.uk
+.uk
+.se
+.infо
+Player
+.su
+.net
+.nеt
+.lt
+.mp
+.net
+indungi
+laleagane
+usp
+1TAP
+Astramania
+FAIRSIDE
+ZUTV
+ELITEGAMERS
+ALPHACS
+VETERANII
+GAMELIFE
+ELEAGUE
+LANNIGHT
+NEVERMORE
+CSGO
+DEATH
+LIBERTY
+Romania
+GO-
+RESPAWN
+FFA
+RETAKE
+COMPETITIV
+.org
+1tap_
+strix
+nephrite
+parabestial
+avulon
+onecsgo
+playes
+krimes
+www.
+elitegamers
+@me
+@all
+golani
+#bucllg
+amvenitsavafutmamele
+mata
+awp
+fireon
+usp
+bucuresti.fairisde
+go.ggez
+go.fairside
+go.llg
+go.ggez
+jb.ggez
+bucuresti.llg
+jb.mediv
+#llg
+llg
+mevid
+vaslui.avulon
+nevermore
+libery.mp
+nevermore
+alphacs
+zutv
+elitegamers
+leaguecs
